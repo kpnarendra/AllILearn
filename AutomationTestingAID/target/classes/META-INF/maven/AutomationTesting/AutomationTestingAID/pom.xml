@@ -4,4 +4,12 @@
   <artifactId>AutomationTestingAID</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>UI Automation testing using SELENIUM</description>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+	<dependency>
+    	<groupId>org.testng</groupId>
+    	<artifactId>testng</artifactId>
+    	<version>6.7</version>
+	</dependency>
+  </dependencies>
 </project>
