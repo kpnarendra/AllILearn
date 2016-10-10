@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="pkgTest.NewTest" duration-ms="47" started-at="2016-10-10T07:40:43Z" finished-at="2016-10-10T07:40:43Z">
+  <suite name="pkgTest.NewTest" duration-ms="56" started-at="2016-10-10T14:19:37Z" finished-at="2016-10-10T14:19:37Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="47" started-at="2016-10-10T07:40:43Z" finished-at="2016-10-10T07:40:43Z">
+    <test name="Command line test" duration-ms="56" started-at="2016-10-10T14:19:37Z" finished-at="2016-10-10T14:19:37Z">
       <class name="pkgTest.NewTest">
-        <test-method status="FAIL" signature="testFail()[pri:0, instance:pkgTest.NewTest@f10a6f]" name="testFail" duration-ms="14" started-at="2016-10-10T13:10:43Z" finished-at="2016-10-10T13:10:43Z">
+        <test-method status="FAIL" signature="testFail()[pri:0, instance:pkgTest.NewTest@f10a6f]" name="testFail" duration-ms="18" started-at="2016-10-10T19:49:37Z" finished-at="2016-10-10T19:49:37Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [This test case if failed.] but found [This test case is failed]]]>
@@ -59,7 +59,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testFail -->
-        <test-method status="PASS" signature="testPass()[pri:0, instance:pkgTest.NewTest@f10a6f]" name="testPass" duration-ms="0" started-at="2016-10-10T13:10:43Z" finished-at="2016-10-10T13:10:43Z">
+        <test-method status="PASS" signature="testPass()[pri:0, instance:pkgTest.NewTest@f10a6f]" name="testPass" duration-ms="1" started-at="2016-10-10T19:49:37Z" finished-at="2016-10-10T19:49:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPass -->

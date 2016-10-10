@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: pkgTest.NewTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.792 sec <<< FAILURE!
-testFail(pkgTest.NewTest)  Time elapsed: 0.004 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.691 sec <<< FAILURE!
+testFail(pkgTest.NewTest)  Time elapsed: 0.024 sec  <<< FAILURE!
 java.lang.AssertionError: expected [This test case if failed.] but found [This test case is failed]
 	at org.testng.Assert.fail(Assert.java:89)
 	at org.testng.Assert.failNotEquals(Assert.java:489)
